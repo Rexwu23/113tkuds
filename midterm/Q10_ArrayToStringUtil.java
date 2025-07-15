@@ -1,8 +1,3 @@
-/*
- * Time Complexity: O(n)
- * 說明：陣列轉字串需走訪所有元素組合格式，
- *       每項處理 O(1)，總共 O(n)。
- */
 
 import java.util.*;
 

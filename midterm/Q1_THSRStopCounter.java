@@ -9,6 +9,7 @@ import java.util.*;
 public class Q1_THSRStopCounter {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
+        System.out.print("請輸入停靠站:");
         int n = sc.nextInt();
         String[] stops = new String[n];
         for (int i = 0; i < n; i++) {
